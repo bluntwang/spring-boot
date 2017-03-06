@@ -1,0 +1,70 @@
+2017-02-13 10:06:53,166 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 15340 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 10:06:53,169 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 10:06:53,169 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 10:06:54,671 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 1.813 seconds (JVM running for 2.138)
+2017-02-13 10:07:07,722 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 8952 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 10:07:07,725 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 10:07:07,726 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 10:07:09,304 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 1.878 seconds (JVM running for 2.226)
+2017-02-13 10:07:20,283 DEBUG (HelloController.java:26)- 访问helloName,Name=sdf
+2017-02-13 10:07:42,369 DEBUG (HelloController.java:20)- 访问hello
+2017-02-13 10:29:57,791 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 848 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 10:29:57,794 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 10:29:57,794 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 16:01:56,340 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 15776 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 16:01:56,343 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 16:01:56,343 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 16:01:58,437 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 2.43 seconds (JVM running for 2.777)
+2017-02-13 16:02:24,194 DEBUG (StringRedisController.java:28)- 访问set:key=lxh2,value=1001
+2017-02-13 16:03:41,440 DEBUG (StringRedisController.java:28)- 访问set:key=lxh2,value=1001
+2017-02-13 16:04:46,411 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 9564 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 16:04:46,413 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 16:04:46,413 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 16:04:48,468 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 2.373 seconds (JVM running for 2.74)
+2017-02-13 16:04:51,611 DEBUG (StringRedisController.java:28)- 访问set:key=lxh2,value=1001
+2017-02-13 16:04:55,529 DEBUG (StringRedisController.java:28)- 访问set:key=lxh2,value=1001
+2017-02-13 16:10:45,720 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 6792 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 16:10:45,724 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 16:10:45,724 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 16:10:48,237 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 2.878 seconds (JVM running for 3.279)
+2017-02-13 16:10:51,584 DEBUG (StringRedisController.java:28)- 访问set:key=lxh2,value=1001
+2017-02-13 16:11:00,813 DEBUG (StringRedisController.java:28)- 访问set:key=lxh2,value=1001
+2017-02-13 16:24:56,681 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 10036 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 16:24:56,684 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 16:24:56,684 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 16:24:58,738 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 2.373 seconds (JVM running for 2.722)
+2017-02-13 16:25:02,688 DEBUG (StringRedisController.java:28)- 访问set:key=lxh2,value=1001
+2017-02-13 16:25:19,520 DEBUG (StringRedisController.java:35)- 访问get:key=lxh2
+2017-02-13 16:33:40,312 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 12848 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 16:33:40,314 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 16:33:40,314 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 16:33:42,407 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 2.398 seconds (JVM running for 2.759)
+2017-02-13 16:34:08,976 DEBUG (StringRedisController.java:46)- 访问setPerson:id=2,name=lxh2,age=2
+2017-02-13 16:35:13,147 DEBUG (StringRedisController.java:46)- 访问setPerson:id=2,name=lxh2,age=2
+2017-02-13 16:39:54,258 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 5336 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 16:39:54,261 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 16:39:54,261 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 16:39:56,302 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 2.351 seconds (JVM running for 2.688)
+2017-02-13 16:40:13,730 DEBUG (StringRedisController.java:28)- 访问set:key=lxh2,value=1001
+2017-02-13 16:40:17,966 DEBUG (StringRedisController.java:35)- 访问get:key=null
+2017-02-13 16:40:34,612 DEBUG (StringRedisController.java:35)- 访问get:key=lxh2
+2017-02-13 16:40:40,914 INFO (ObjectRedisController.java:21)- 访问setPerson:id=2,name=lxh2,age=2
+2017-02-13 16:57:13,760 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 12520 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 16:57:13,765 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 16:57:13,765 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 16:57:15,962 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 2.541 seconds (JVM running for 2.889)
+2017-02-13 16:57:57,485 INFO (ObjectRedisController.java:21)- 访问setPerson:id=2,name=lxh2,age=2
+2017-02-13 17:22:52,571 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 18008 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 17:22:52,573 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 17:22:52,574 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 17:23:16,180 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 16344 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 17:23:16,182 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 17:23:16,183 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 17:23:43,688 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 17672 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 17:23:43,691 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 17:23:43,691 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 17:24:13,384 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on DESKTOP-9I43L7P with PID 2988 (C:\wzy\Workspace\spring-boot-sample-helloworld\target\classes started by wzy in C:\wzy\Workspace\spring-boot-sample-helloworld)
+2017-02-13 17:24:13,387 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-02-13 17:24:13,387 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-02-13 17:24:15,427 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 2.34 seconds (JVM running for 2.652)
+2017-02-13 17:24:21,853 DEBUG (HelloController.java:26)- 访问helloName,Name=sdf
